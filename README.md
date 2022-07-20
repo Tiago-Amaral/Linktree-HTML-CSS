@@ -1,4 +1,6 @@
 # Criei uma aplicação Linktree com links das minhas principais redes sociais, usando apenas HTML e CSS
+### link de acesso
+https://elegant-trifle-6c640a.netlify.app/
 
 
 
